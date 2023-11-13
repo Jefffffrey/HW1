@@ -1,4 +1,3 @@
-![CFCA1FC5-F882-4C0E-96A2-5C830AD27CE5](https://github.com/Jefffffrey/HW1/assets/125536328/ac86ec73-20fb-4b84-a8b7-35e06ba9fd32)
 <h1>HW1</h1>
 
 
