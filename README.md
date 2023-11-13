@@ -1,5 +1,10 @@
-# HW1#
-import SwiftUI
+<h1>HW1</h1>
+
+
+```swift
+
+
+  import SwiftUI
 
 struct ContentView: View {
     var body: some View {
@@ -32,3 +37,4 @@ struct ContentView: View {
         } 
     }
 }
+```
